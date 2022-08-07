@@ -14,5 +14,5 @@ Os resultados da aplicação do modelo serviram para comprovar a aplicabilidade 
 
 Internet. tecnologia. 4 Ps. composto de marketing.  
 \
-([**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/raw/main/aplicabilidade-dos-4-ps-em-empresas-pontocom/aplicabilidade-dos-4-ps-do-marketing-em-empresas-pontocom.pdf))  
+([**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/aplicabilidade-dos-4-ps-em-empresas-pontocom/aplicabilidade-dos-4-ps-do-marketing-em-empresas-pontocom.pdf))  
 
