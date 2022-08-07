@@ -10,4 +10,4 @@ Este estudo apresenta uma proposta de projeto pedagógico de capacitação de pr
 
 Software Livre. projeto pedagógico. Linux.  
 \
-([**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/raw/main/capacitacao-de-professores-em-informatica-com-software-livre/proposta-de-capacitacao-de-professores-em-informatica-com-software-livre.pdf))  
+([**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/capacitacao-de-professores-em-informatica-com-software-livre/proposta-de-capacitacao-de-professores-em-informatica-com-software-livre.pdf))  
