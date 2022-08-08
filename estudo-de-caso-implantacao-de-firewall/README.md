@@ -12,5 +12,5 @@ A segurança da informação é uma temática de grande preocupação no dia-a-d
 
 Firewall pfSense. Software Livre. Segurança da Informação.  
 \
-[**Download full-text PDF**]([https://github.com/fermyno/scientific-research-papers/blob/main/capacitacao-de-professores-em-informatica-com-software-livre/proposta-de-capacitacao-de-professores-em-informatica-com-software-livre.pdf](https://github.com/fermyno/scientific-research-papers/blob/main/estudo-de-caso-implantacao-de-firewall/estudo-de-caso-implantacao-de-firewall-em-empresa-do-ramo-hoteleiro.pdf))  
+([**Download full-text PDF**]((https://github.com/fermyno/scientific-research-papers/blob/main/estudo-de-caso-implantacao-de-firewall/estudo-de-caso-implantacao-de-firewall-em-empresa-do-ramo-hoteleiro.pdf))  
 
