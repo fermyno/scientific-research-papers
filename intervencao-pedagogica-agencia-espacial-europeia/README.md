@@ -12,6 +12,6 @@ Atualmente, o ensino da física encontra-se centrado na aula expositiva, contrib
 
 Intervenção Pedagógica. Ensino da Física. Agência Espacial Europeia. ESA.  
 \
-[**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/estudo-de-caso-implantacao-de-firewall/estudo-de-caso-implantacao-de-firewall-em-empresa-do-ramo-hoteleiro.pdf)  
+[**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/intervencao-pedagogica-agencia-espacial-europeia/proposta-de-intervencao-pedagogica-agencia-espacial-europeia.pdf)  
 
 
