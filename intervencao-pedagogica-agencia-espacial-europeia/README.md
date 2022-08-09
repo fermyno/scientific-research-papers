@@ -13,5 +13,5 @@ Atualmente, o ensino da física encontra-se centrado na aula expositiva, contrib
 Intervenção Pedagógica. Ensino da Física. Agência Espacial Europeia. ESA.  
 \
 [**Full-text (PDF)**](https://github.com/fermyno/scientific-research-papers/blob/main/intervencao-pedagogica-agencia-espacial-europeia/proposta-de-intervencao-pedagogica-agencia-espacial-europeia.pdf)  
-[**Brochure - ESA Teach with Space Conference (PDF)**](https://github.com/fermyno/scientific-research-papers/blob/main/intervencao-pedagogica-agencia-espacial-europeia/proposta-de-intervencao-pedagogica-agencia-espacial-europeia.pdf)  
-[**Certificate - ESA Teach with Space Conference (PDF)**](https://github.com/fermyno/scientific-research-papers/blob/main/intervencao-pedagogica-agencia-espacial-europeia/Certificate%20-%20ESA%20Teach%20with%20Space%20Conference%202021.pdf)  
+[**ESA Teach with Space Conference - Brochure (PDF)**](https://github.com/fermyno/scientific-research-papers/blob/main/intervencao-pedagogica-agencia-espacial-europeia/Brochure%20-%20ESA%20Teach%20with%20Space%20Conference.pdf)  
+[**ESA Teach with Space Conference - Certificate (PDF)**](https://github.com/fermyno/scientific-research-papers/blob/main/intervencao-pedagogica-agencia-espacial-europeia/Certificate%20-%20ESA%20Teach%20with%20Space%20Conference%202021.pdf)  
