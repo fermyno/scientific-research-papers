@@ -11,10 +11,10 @@ O presente estudo de caso aborda os aspectos mercadológicos do futebol no Brasi
 ## Palavras-Chave:
 
 Futebol. Marketing. Gestão Esportiva.  
-\
+<br>
 [**View Full-text (PDF)**](https://github.com/fermyno/scientific-research-papers/blob/main/miami-fc-estudo-de-caso-estados-unidos/miami-fc-um-estudo-de-caso-Estados-Unidos.pdf)  
-\    
+<br>    
 ![MIAMI FC - Inside](https://raw.githubusercontent.com/fermyno/scientific-research-papers/main/miami-fc-estudo-de-caso-estados-unidos/images/miami-fc--inside.jpg)  
-\  
-[MIAMI FC - Outside](?)  
+<br>  
+[MIAMI FC - Outside]([?](https://raw.githubusercontent.com/fermyno/scientific-research-papers/main/miami-fc-estudo-de-caso-estados-unidos/images/miami-fc--outside.jpg))  
 
