@@ -16,5 +16,5 @@ Futebol. Marketing. Gestão Esportiva.
 <br>    
 ![MIAMI FC - Inside](https://raw.githubusercontent.com/fermyno/scientific-research-papers/main/miami-fc-estudo-de-caso-estados-unidos/images/miami-fc--inside.jpg)  
 <br>  
-[MIAMI FC - Outside]([?](https://raw.githubusercontent.com/fermyno/scientific-research-papers/main/miami-fc-estudo-de-caso-estados-unidos/images/miami-fc--outside.jpg))  
+[MIAMI FC - Outside](https://raw.githubusercontent.com/fermyno/scientific-research-papers/main/miami-fc-estudo-de-caso-estados-unidos/images/miami-fc--outside.jpg)  
 
