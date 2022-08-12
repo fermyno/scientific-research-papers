@@ -12,8 +12,5 @@ Atualmente, o ensino da física encontra-se majoritariamente focado no conteúdo
 
 software educativo, Geogebra, ensino da física.  
 \
-[**Download full-text PDF**]()  
-
-
-
+[**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/utilizacao-do-geogebra-no-ensino-da-fisica/estudo-de-caso-sobre-a-utilizacao-do-geogebra-no-ensino-da-fisica.pdf)  
 
