@@ -14,7 +14,7 @@ O presente estudo não pretende apresentar um posicionamento conclusivo em torno
 
 Sistemas de Informação Contábil, Contabilidade, Tecnologias da Informação.  
 \
-[**Download full-text PDF**]()  
+[**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/sic-e-tecnologias-da-informacao/sistemas-de-informacao-contabil-e-tecnologias-da-informacao.pdf)  
 
 
 
