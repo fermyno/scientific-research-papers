@@ -1,6 +1,6 @@
 # Aplicabilidade dos 4 Ps do Marketing em Empresas Pontocom
 
-**Título:** Aplicabilidade dos 4 Ps do Marketing em Empresas Pontocom  
+**Título:** **Aplicabilidade dos 4 Ps do Marketing em Empresas Pontocom**  
 **Autor:** Fermyno Gutierrez  
 **Finalidade:** Trabalho de Conclusão desenvolvido como requisito para a conclusão do Curso Superior de Tecnologia na Faculdade SENAC.  
 
