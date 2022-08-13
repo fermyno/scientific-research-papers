@@ -15,20 +15,20 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
   **Descrição**: Artigo desenvolvido na participação do seminário ESA TEACH WITH SPACE ONLINE CONFERENCE 2021.
   
 * **Título**: [Sistema pfSense como solução de Segurança da Informação](tree/main/pfsense-seguranca-da-informacao)  
-  Autor: Fermyno Gutierrez  
-  Descrição: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Segurança da Informação na Faculdade de Venda Nova do Imigrante.
+  **Autor**: Fermyno Gutierrez  
+  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Segurança da Informação na Faculdade de Venda Nova do Imigrante.
 
 * **Título**: [Miami FC: Estudo de Caso sobre as ações mercadológicas adotadas pelo clube nos Estados Unidos](tree/main/miami-fc-estudo-de-caso-estados-unidos)  
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de MBA em Gestão no Centro Universitário UNILASALLE, após intercâmbio acadêmico realizado nas dependências do clube em Miami, Estados Unidos.
 
 * **Título**: [Aplicabilidade dos 4 Ps do Marketing em Empresas Pontocom](tree/main/aplicabilidade-dos-4-ps-em-empresas-pontocom)  
-  Autor: Fermyno Gutierrez  
-  Descrição: Trabalho desenvolvido como requisito para a conclusão do Curso Superior de Tecnologia na Faculdade SENAC.
+  **Autor**: Fermyno Gutierrez  
+  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso Superior de Tecnologia na Faculdade SENAC.
 
 * **Título**: [Implantação de Firewall pfSense em uma empresa do ramo hoteleiro](tree/main/estudo-de-caso-implantacao-de-firewall)  
-  Autor: Fermyno Gutierrez  
-  Descrição: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Engenharia de Software na Faculdade de Venda Nova do Imigrante.
+  **Autor**: Fermyno Gutierrez  
+  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Engenharia de Software na Faculdade de Venda Nova do Imigrante.
 
 * **Título**: [Sistemas de Informação Contábil e Tecnologias da Informação](tree/main/sic-e-tecnologias-da-informacao)  
   **Autor**: Fermyno Gutierrez  
