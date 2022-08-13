@@ -1,6 +1,6 @@
 # Sistema pfSense como solução de Segurança da Informação 
 
-**Título:** Sistema pfSense como solução de Segurança da Informação   
+**Título:** **Sistema pfSense como solução de Segurança da Informação**   
 **Autor:** Fermyno Gutierrez  
 **Finalidade:** Trabalho desenvolvido como requisito para a conclusão do Curso de Pós-graduação em Segurança da Informação na Faculdade de Venda Nova do Imigrante - FAVENI.  
 
