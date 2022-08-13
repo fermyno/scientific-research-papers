@@ -1,6 +1,6 @@
 # Implantação de Firewall pfSense em uma empresa do ramo hoteleiro 
 
-**Título:** Implantação de Firewall pfSense em uma empresa do ramo hoteleiro   
+**Título:** **Implantação de Firewall pfSense em uma empresa do ramo hoteleiro**   
 **Autor:** Fermyno Gutierrez  
 **Finalidade:** Trabalho desenvolvido como requisito para a conclusão do Curso de Pós-graduação em Engenharia de Software na Faculdade de Venda Nova do Imigrante - FAVENI.  
 
