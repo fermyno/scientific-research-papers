@@ -1,6 +1,6 @@
 # Estudo de Caso sobre a utilização do Software Geogebra no Ensino da Física 
 
-**Título:** Estudo de Caso sobre a utilização do Software Geogebra no Ensino da Física   
+**Título:** **Estudo de Caso sobre a utilização do Software Geogebra no Ensino da Física**   
 **Autor:** Fermyno Gutierrez  
 **Finalidade:** Trabalho desenvolvido como requisito para a conclusão do Curso de Licenciatura em Física na Faculdade de Venda Nova do Imigrante - FAVENI.  
 
