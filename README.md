@@ -5,7 +5,10 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
 
 **RELAÇÃO DE TRABALHOS:**
 
-
+* **Título**: [Proposta de Capacitação de professores em Informática com o uso de Software Livre](tree/main/capacitacao-de-professores-em-informatica-com-software-livre)  
+  **Autor**: Fermyno Gutierrez  
+  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Informática em Educação na Universidade Federal de Lavras (UFLA).
+ 
 * **Título**: [Estudo de Caso sobre a utilização do Software Geogebra no Ensino da Física](tree/main/utilizacao-do-geogebra-no-ensino-da-fisica)  
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Licenciatura em Física na Faculdade de Venda Nova do Imigrante.
