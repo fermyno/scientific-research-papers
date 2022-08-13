@@ -6,7 +6,7 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
 **RELAÇÃO DE TRABALHOS:**
 <BR>
  
-* **Título**: [Proposta de Capacitação de professores em Informática com o uso de Software Livre](https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre)  
+* **Título**: **[Proposta de Capacitação de professores em Informática com o uso de Software Livre](https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre)**  
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Informática em Educação na Universidade Federal de Lavras (UFLA).
  
