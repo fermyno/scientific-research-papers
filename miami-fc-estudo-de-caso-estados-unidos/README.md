@@ -1,6 +1,6 @@
 # MIAMI FC: Estudo de Caso sobre as ações mercadológicas adotadas pelo clube nos Estados Unidos 
 
-**Título:** MIAMI FC: Estudo de Caso sobre as ações mercadológicas adotadas pelo clube nos Estados Unidos   
+**Título:** **MIAMI FC: Estudo de Caso sobre as ações mercadológicas adotadas pelo clube nos Estados Unidos**   
 **Autor:** Fermyno Gutierrez  
 **Finalidade:** Trabalho desenvolvido como requisito para a conclusão do Curso de MBA no Centro Universitário UNILASALLE, após intercâmbio acadêmico realizado nas dependências do clube Miami FC, Estados Unidos.  
 
