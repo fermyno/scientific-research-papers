@@ -1,6 +1,6 @@
 # Proposta de Intervenção Pedagógica para o Ensino da Física baseada no material educacional da Agência Espacial Europeia 
 
-**Título:** Proposta de Intervenção Pedagógica para o Ensino da Física baseada no material educacional da Agência Espacial Europeia   
+**Título:** **Proposta de Intervenção Pedagógica para o Ensino da Física baseada no material educacional da Agência Espacial Europeia**   
 **Autor:** Fermyno Gutierrez  
 **Finalidade:** Artigo desenvolvido no âmbito da participação no seminário ESA TEACH WITH SPACE CONFERENCE 2021, organizado pela Agência Espacial Europeia.  
 
