@@ -1,6 +1,6 @@
 # Aplicabilidad de las 4P del marketing en sitios de Internet 
 
-**Título:** Aplicabilidad de las 4P del marketing en sitios de Internet   
+**Título:** **Aplicabilidad de las 4P del marketing en sitios de Internet**   
 **Autor:** Fermyno Gutierrez  
 **Finalidade:** Trabalho desenvolvido como requisito para a otenção do título de Master em Estratégia pela AICAD Business School, Espanha.  
 
