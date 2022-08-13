@@ -1,6 +1,6 @@
 # Sistemas de Informação Contábil e Tecnologias da Informação 
 
-**Título:** Sistemas de Informação Contábil e Tecnologias da Informação   
+**Título:** **Sistemas de Informação Contábil e Tecnologias da Informação**   
 **Autor:** Fermyno Gutierrez  
 **Finalidade:** Trabalho desenvolvido como requisito para a conclusão do Curso de MBA em Contabilidade Gerencial e Controladoria na UNIGRAN Internacional, Campus Lisboa.  
 
