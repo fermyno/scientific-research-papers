@@ -1,6 +1,6 @@
 # Proposta de capacitação de professores em informática com o uso de Software Livre 
 
-**Título:** Proposta de capacitação de professores em informática com o uso de Software Livre    
+**Título:** **Proposta de capacitação de professores em informática com o uso de Software Livre**    
 **Autor:** Fermyno Gutierrez  
 **Finalidade:** Trabalho de Conclusão desenvolvido como requisito para a conclusão do Curso de Pós-graduação em Informática em Educação na Universidade Federal de Lavras (UFLA).  
 
