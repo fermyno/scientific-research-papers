@@ -42,4 +42,4 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a otenção do título de Master pela AICAD Business School, Espanha.
 
-///
+//
