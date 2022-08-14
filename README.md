@@ -41,5 +41,3 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
 * **Título**: **[Aplicabilidad de las 4 P del marketing en sitios de Internet](https://github.com/fermyno/scientific-research-papers/tree/main/las-4-p-en-sitios-de-internet)**  
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a otenção do título de Master pela AICAD Business School, Espanha.
-
-/
