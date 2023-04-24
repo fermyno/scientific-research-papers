@@ -42,7 +42,7 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a otenção do título de Master pela AICAD Business School, Espanha.
 
-* **Título**: **[Ambiente de Desenvolvimento Arduino IDE](https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre)**  
+* **Título**: **[Ambiente de Desenvolvimento Arduino IDE](https://github.com/fermyno/scientific-research-papers/blob/main/ambiente-de-desenvolvimento-Arduino-IDE/README.md)**  
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a conclusão da disciplina "Ambientes de Desenvolvimento e Aplicações" do Curso de Pós-graduação em Engenharia Eletrônica e Computação  na Faculdade UNYLEYA.
   
