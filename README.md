@@ -44,5 +44,5 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
 
 * **Título**: **[Ambiente de Desenvolvimento Arduino IDE](https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre)**  
   **Autor**: Fermyno Gutierrez  
-  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Informática em Educação na Universidade Federal de Lavras (UFLA).
+  **Descrição**: Trabalho desenvolvido como requisito para a conclusão da disciplina "Ambientes de Desenvolvimento e Aplicações" do Curso de Pós-graduação em Engenharia Eletrônica e Computação  na Faculdade UNYLEYA.
   
