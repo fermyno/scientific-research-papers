@@ -6,7 +6,7 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
 **RELAÇÃO DE TRABALHOS:**
 <BR>
 
-* **Título**: **[Sistema pfSense como solução de Segurança da Informação](https://github.com/fermyno/scientific-research-papers/tree/main/pfsense-seguranca-da-informacao)**  
+* **Título**: **<code>[Sistema pfSense como solução de Segurança da Informação](https://github.com/fermyno/scientific-research-papers/tree/main/pfsense-seguranca-da-informacao)</code>**  
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Segurança da Informação na Faculdade de Venda Nova do Imigrante.
  
