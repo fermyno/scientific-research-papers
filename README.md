@@ -10,19 +10,19 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Segurança da Informação na Faculdade de Venda Nova do Imigrante.
  
-📄 **Título**: **<code>[Implantação de Firewall pfSense em uma empresa do ramo hoteleiro](https://github.com/fermyno/scientific-research-papers/tree/main/estudo-de-caso-implantacao-de-firewall)</code>**  
+* **Título**: 📄 **<code>[Implantação de Firewall pfSense em uma empresa do ramo hoteleiro](https://github.com/fermyno/scientific-research-papers/tree/main/estudo-de-caso-implantacao-de-firewall)</code>**  
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Engenharia de Software na Faculdade de Venda Nova do Imigrante.
 
-* **Título**: **<code>[Sistemas de Informação Contábil e Tecnologias da Informação](https://github.com/fermyno/scientific-research-papers/tree/main/sic-e-tecnologias-da-informacao)</code>**  
+* **Título**: 📄 **<code>[Sistemas de Informação Contábil e Tecnologias da Informação](https://github.com/fermyno/scientific-research-papers/tree/main/sic-e-tecnologias-da-informacao)</code>**  
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de MBA em Contabilidade Gerencial e Controladoria na UNIGRAN Internacional, Campus Lisboa.
 
-* **Título**: **<code>[Proposta de Intervenção Pedagógica para o Ensino da Física baseada no Material Educacional da Agência Espacial Europeia](https://github.com/fermyno/scientific-research-papers/tree/main/intervencao-pedagogica-agencia-espacial-europeia)</code>**  
+* **Título**: 📄 **<code>[Proposta de Intervenção Pedagógica para o Ensino da Física baseada no Material Educacional da Agência Espacial Europeia](https://github.com/fermyno/scientific-research-papers/tree/main/intervencao-pedagogica-agencia-espacial-europeia)</code>**  
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Artigo desenvolvido na participação do seminário ESA TEACH WITH SPACE ONLINE CONFERENCE 2021 (Agência Espacial Europeia).
   
-* **Título**: **<code>[Proposta de Capacitação de professores em Informática com o uso de Software Livre](https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre)</code>**  
+* **Título**: 📄 **<code>[Proposta de Capacitação de professores em Informática com o uso de Software Livre](https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre)</code>**  
   **Autor**: Fermyno Gutierrez  
   **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Pósgraduação em Informática em Educação na Universidade Federal de Lavras (UFLA).
  
