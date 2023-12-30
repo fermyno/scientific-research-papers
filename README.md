@@ -1,4 +1,4 @@
-# Artigos Científicos
+# Artigos Científicos Publicados 
 Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa acadêmica.
 
 <BR>
