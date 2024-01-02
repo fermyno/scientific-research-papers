@@ -17,7 +17,7 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
 
 * **Título**: 📄 **<code>[Ambiente de Desenvolvimento Arduino IDE](https://github.com/fermyno/scientific-research-papers/blob/main/ambiente-de-desenvolvimento-Arduino-IDE/README.md)</code>**  
   **Autor**: Fermyno Gutierrez  
-  **Descrição**: Trabalho desenvolvido como requisito para a conclusão da disciplina "Ambientes de Desenvolvimento e Aplicações" do Curso de Pós-graduação em Engenharia Eletrônica e Computação  na Faculdade UNYLEYA.
+  **Descrição**: Trabalho desenvolvido como requisito para a conclusão da disciplina "Ambientes de Desenvolvimento e Aplicações" do Curso de **Pós-graduação em Engenharia Eletrônica e Computação** na Faculdade UNYLEYA.
   
 * **Título**: 📄 **<code>[Sistemas de Informação Contábil e Tecnologias da Informação](https://github.com/fermyno/scientific-research-papers/tree/main/sic-e-tecnologias-da-informacao)</code>**  
   **Autor**: Fermyno Gutierrez  
