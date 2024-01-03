@@ -25,7 +25,7 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
 
 * **Título**: 📄 **<code>[Proposta de Intervenção Pedagógica para o Ensino da Física baseada no Material Educacional da Agência Espacial Europeia](https://github.com/fermyno/scientific-research-papers/tree/main/intervencao-pedagogica-agencia-espacial-europeia)</code>**  
   **Autor**: Fermyno Gutierrez  
-  **Descrição**: Artigo desenvolvido na participação do seminário ESA TEACH WITH SPACE ONLINE CONFERENCE 2021 da **Agência Espacial Europeia**.
+  **Descrição**: Artigo desenvolvido na participação do seminário **ESA TEACH WITH SPACE CONFERENCE** 2021 da **Agência Espacial Europeia**.
   
 * **Título**: 📄 **<code>[Proposta de Capacitação de professores em Informática com o uso de Software Livre](https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre)</code>**  
   **Autor**: Fermyno Gutierrez  
