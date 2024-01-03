@@ -21,7 +21,7 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
   
 * **Título**: 📄 **<code>[Sistemas de Informação Contábil e Tecnologias da Informação](https://github.com/fermyno/scientific-research-papers/tree/main/sic-e-tecnologias-da-informacao)</code>**  
   **Autor**: Fermyno Gutierrez  
-  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de **MBA em Contabilidade Gerencial e Controladoria** na UNIGRAN Internacional, Campus Lisboa.
+  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de **MBA em Contabilidade Gerencial e Controladoria** na UNIGRAN Internacional, Campus Lisboa, Portugal.
 
 * **Título**: 📄 **<code>[Proposta de Intervenção Pedagógica para o Ensino da Física baseada no Material Educacional da Agência Espacial Europeia](https://github.com/fermyno/scientific-research-papers/tree/main/intervencao-pedagogica-agencia-espacial-europeia)</code>**  
   **Autor**: Fermyno Gutierrez  
