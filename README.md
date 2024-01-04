@@ -29,7 +29,7 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
   
 * **Título**: 📄 **<code>[Proposta de Capacitação de professores em Informática com o uso de Software Livre](https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre)</code>**  
   **Autor**: Fermyno Gutierrez  
-  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Pós-graduação em Informática em Educação na Universidade Federal de Lavras (UFLA).
+  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de **Pós-graduação em Informática em Educação** na Universidade Federal de Lavras (UFLA).
  
 * **Título**: 📄 **<code>[Estudo de Caso sobre a utilização do Software Geogebra no Ensino da Física](https://github.com/fermyno/scientific-research-papers/tree/main/utilizacao-do-geogebra-no-ensino-da-fisica)</code>**  
   **Autor**: Fermyno Gutierrez  
