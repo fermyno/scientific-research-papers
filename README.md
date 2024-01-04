@@ -33,7 +33,7 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
  
 * **Título**: 📄 **<code>[Estudo de Caso sobre a utilização do Software Geogebra no Ensino da Física](https://github.com/fermyno/scientific-research-papers/tree/main/utilizacao-do-geogebra-no-ensino-da-fisica)</code>**  
   **Autor**: Fermyno Gutierrez  
-  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de Licenciatura em Física na Faculdade de Venda Nova do Imigrante.
+  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de **Licenciatura em Física** na Faculdade de Venda Nova do Imigrante.
 
 * **Título**: 📄 **<code>[Miami FC: Estudo de Caso sobre as ações mercadológicas adotadas pelo clube nos Estados Unidos](https://github.com/fermyno/scientific-research-papers/tree/main/miami-fc-estudo-de-caso-estados-unidos)</code>**  
   **Autor**: Fermyno Gutierrez  
