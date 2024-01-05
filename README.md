@@ -37,7 +37,7 @@ Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa 
 
 * **Título**: 📄 **<code>[Miami FC: Estudo de Caso sobre as ações mercadológicas adotadas pelo clube nos Estados Unidos](https://github.com/fermyno/scientific-research-papers/tree/main/miami-fc-estudo-de-caso-estados-unidos)</code>**  
   **Autor**: Fermyno Gutierrez  
-  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de MBA em Gestão no Centro Universitário UNILASALLE, após intercâmbio acadêmico realizado nas dependências do clube em Miami, Estados Unidos.
+  **Descrição**: Trabalho desenvolvido como requisito para a conclusão do Curso de **MBA em Gestão** no Centro Universitário UNILASALLE, após intercâmbio acadêmico realizado nas dependências do clube em Miami, Estados Unidos.
 
 * **Título**: 📄 **<code>[Aplicabilidade dos 4 Ps do Marketing em Empresas Pontocom](https://github.com/fermyno/scientific-research-papers/tree/main/aplicabilidade-dos-4-ps-em-empresas-pontocom)</code>**  
   **Autor**: Fermyno Gutierrez  
