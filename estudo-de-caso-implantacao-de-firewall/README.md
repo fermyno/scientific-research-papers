@@ -1,4 +1,4 @@
-# :notebook_with_decorative_cover: Implantação de Firewall pfSense em uma empresa do ramo hoteleiro 
+# :notebook_with_decorative_cover: Implantação de Firewall em empresa do ramo hoteleiro 
 
 **Título:** **Implantação de Firewall pfSense em uma empresa do ramo hoteleiro**   
 **Autor:** Fermyno Gutierrez  
