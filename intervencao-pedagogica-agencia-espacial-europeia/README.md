@@ -22,4 +22,6 @@ Intervenção Pedagógica. Ensino da Física. Agência Espacial Europeia. ESA.
 [**ESA Teach with Space Conference - Certificate (PDF)**](https://github.com/fermyno/scientific-research-papers/blob/main/intervencao-pedagogica-agencia-espacial-europeia/Certificate%20-%20ESA%20Teach%20with%20Space%20Conference%202021.pdf)  
 <br />
 <br />
+![Certificado](esa-certificate-Fermyno-Gutierrez.jpg)
+
 <br />
