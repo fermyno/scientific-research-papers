@@ -1,10 +1,10 @@
 # Artigos Científicos Publicados 
 Repositório contendo artigos científicos desenvolvidos no âmbito da pesquisa acadêmica.
 
-<BR>
+<BR />
 
 **RELAÇÃO DE TRABALHOS:**
-<BR>
+<BR />
 
  
 * **Título**: 📄 **<code>[Implantação de Firewall pfSense em uma empresa do ramo hoteleiro](https://github.com/fermyno/scientific-research-papers/tree/main/estudo-de-caso-implantacao-de-firewall)</code>**  
