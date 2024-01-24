@@ -7,3 +7,6 @@
 
 ## :page_facing_up: Resumo:
 
+Este artigo técnico explora as vantagens dos amplificadores operacionais em comparação com os amplificadores a transistor, destacando os benefícios da técnica de realimentação negativa. A realimentação negativa permite melhorar a precisão, a estabilidade e a linearidade dos amplificadores operacionais, tornando-os fundamentais em diversas aplicações eletrônicas. 
+<br />
+
