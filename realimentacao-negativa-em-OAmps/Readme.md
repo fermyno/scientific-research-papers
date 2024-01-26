@@ -17,3 +17,5 @@ Amplificadores Operacionais. Transistores. Eletrônica.
 
 ## :file_folder: Documento:
 
+[**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/realimentacao-negativa-em-OAmps/realimentacao-negativa-em-OAmps.pdf)
+
