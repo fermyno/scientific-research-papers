@@ -15,4 +15,5 @@ Este artigo técnico explora as vantagens dos amplificadores operacionais em com
 Amplificadores Operacionais. Transistores. Eletrônica. 
 <br />
 
+## :file_folder: Documento:
 
