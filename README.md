@@ -42,6 +42,12 @@
 </ul>
 <br>
 <ul dir="auto">
+<li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/utilizacao-do-geogebra-no-ensino-da-fisica">123</a></code></strong><br>
+<strong>Autor</strong>: Fermyno Gutierrez<br>
+<strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão do Curso de <strong>Licenciatura em Física</strong> na Faculdade de Venda Nova do Imigrante.</li>
+</ul>
+<br>
+<ul dir="auto">
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/utilizacao-do-geogebra-no-ensino-da-fisica">Estudo de Caso sobre a utilização do Software Geogebra no Ensino da Física</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão do Curso de <strong>Licenciatura em Física</strong> na Faculdade de Venda Nova do Imigrante.</li>
