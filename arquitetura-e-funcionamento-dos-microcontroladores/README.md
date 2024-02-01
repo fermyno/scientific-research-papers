@@ -10,3 +10,4 @@
 Este artigo técnico apresenta duas rotinas de software em Linguagem C para acionamento do microcontrolador Microchip PIC16F877A. A primeira rotina é um temporizador de 2 segundos que liga uma lâmpada. A segunda rotina realiza a leitura de uma interrupção externa para ligar uma outra lâmpada.  
 <br />
 
+## :bookmark: Palavras-Chave:
