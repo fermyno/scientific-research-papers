@@ -11,3 +11,7 @@ Este artigo técnico apresenta duas rotinas de software em Linguagem C para acio
 <br />
 
 ## :bookmark: Palavras-Chave:
+
+Microcontrolador. Microchip PIC16F877A. Linguagem C.
+<br />
+
