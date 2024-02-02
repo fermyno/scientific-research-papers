@@ -18,3 +18,7 @@ Microcontrolador. Microchip PIC16F877A. Linguagem C.
 ## :file_folder: Documento:
 
 [**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/arquitetura-e-funcionamento-dos-microcontroladores/arquitetura-e-funcionamento-dos-microcontroladores.pdf)  
+
+<br />
+<br />
+<br />
