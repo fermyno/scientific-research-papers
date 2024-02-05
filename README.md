@@ -36,13 +36,11 @@
 </ul>
 <br>
 <ul dir="auto">
-<li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/realimentacao-negativa-em-OAmps">Rotinas de Software para acionamento de Microcontroladores</a></code></strong><br>
+<li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/blob/main/arquitetura-e-funcionamento-dos-microcontroladores/README.md">Rotinas de Software para acionamento de Microcontroladores</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão da disciplina de "Arquitetura e Funcionamento dos Microcontroladores" do Curso de <strong>Pós-graduação em Engenharia Eletrônica e Computação</strong> na Faculdade UNYLEYA.</li>
 </ul>
 <br>
-
-
 <ul dir="auto">
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre">Proposta de Capacitação de professores em Informática com o uso de Software Livre</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
