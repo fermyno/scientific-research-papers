@@ -36,9 +36,9 @@
 </ul>
 <br>
 <ul dir="auto">
-<li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/realimentacao-negativa-em-OAmps">99Realimentação Negativa em Amplificadores Operacionais</a></code></strong><br>
+<li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/realimentacao-negativa-em-OAmps">Rotinas de Software para acionamento de Microcontroladores</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
-<strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão da disciplina de "Eletrônica" do Curso de <strong>Pós-graduação em Engenharia Eletrônica e Computação</strong> na Faculdade UNYLEYA.</li>
+<strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão da disciplina de "Arquitetura e Funcionamento dos Microcontroladores" do Curso de <strong>Pós-graduação em Engenharia Eletrônica e Computação</strong> na Faculdade UNYLEYA.</li>
 </ul>
 <br>
 
