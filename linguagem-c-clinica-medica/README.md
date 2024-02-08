@@ -12,7 +12,7 @@ Este artigo técnico explora as vantagens dos amplificadores operacionais em com
 
 ## :bookmark: Palavras-Chave:
 
-Amplificadores Operacionais. Transistores. Eletrônica. 
+Amplificadores Operacionais. Transistores. Eletrônica.  
 <br />
 
 ## :file_folder: Documento:
