@@ -1,8 +1,8 @@
 # :notebook_with_decorative_cover:  Desenvolvimento de Programa em Linguagem C 
 
-**Título:** **Realimentação Negativa em Amplificadores Operacionais**   
+**Título:** **Programa para cadastro de pacientes, médicos e consultas de uma clínica médica**   
 **Autor:** Fermyno Gutierrez  
-**Finalidade:** Trabalho desenvolvido como requisito para a conclusão da Disciplina de Eletrônica do Curso de Pós-graduação em Engenharia Eletrônica e de Computação da Faculdade UNYLEYA.  
+**Finalidade:** Trabalho desenvolvido como requisito para a conclusão da Disciplina de Linguagem C do Curso de Pós-graduação em Engenharia Eletrônica e de Computação da Faculdade UNYLEYA.  
 <br />
 
 ## :page_facing_up: Resumo:
