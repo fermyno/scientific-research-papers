@@ -1,4 +1,4 @@
-# :notebook_with_decorative_cover:  Realimentação Negativa em Amplificadores Operacionais 
+# :notebook_with_decorative_cover:  Desenvolvimento de Programa em Linguagem C 
 
 **Título:** **Realimentação Negativa em Amplificadores Operacionais**   
 **Autor:** Fermyno Gutierrez  
