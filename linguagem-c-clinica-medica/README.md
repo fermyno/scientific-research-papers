@@ -7,12 +7,12 @@
 
 ## :page_facing_up: Resumo:
 
-Este artigo técnico explora as vantagens dos amplificadores operacionais em comparação com os amplificadores a transistor, destacando os benefícios da técnica de realimentação negativa. A realimentação negativa permite melhorar a precisão, a estabilidade e a linearidade dos amplificadores operacionais, tornando-os fundamentais em diversas aplicações eletrônicas.  
+Este artigo técnico aborda o desenvolvimento de um programa em linguagem C para cadastro de pacientes, médicos e consultas de uma clínica médica.  
 <br />
 
 ## :bookmark: Palavras-Chave:
 
-Amplificadores Operacionais. Transistores. Eletrônica.  
+Linguagem C. Programação. Clínica Médica.  
 <br />
 
 ## :file_folder: Documento:
