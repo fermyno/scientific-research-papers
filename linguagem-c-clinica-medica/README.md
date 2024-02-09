@@ -17,7 +17,7 @@ Linguagem C. Programação. Clínica Médica.
 
 ## :file_folder: Documento:
 
-[**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/pfsense-seguranca-da-informacao/sistema-pfsense-como-solucao-de-seguranca-da-informacao.pdf?????)  
+[**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/linguagem-c-clinica-medica/Tarefa%204.2-final.pdf)  
 
 <br />
 <br />
