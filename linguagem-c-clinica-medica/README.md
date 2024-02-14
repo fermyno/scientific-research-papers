@@ -19,7 +19,9 @@ Linguagem C. Programação. Clínica Médica.
 
 [**Download full-text PDF**](https://github.com/fermyno/scientific-research-papers/blob/main/linguagem-c-clinica-medica/Tarefa%204.2-final.pdf)  
 
-## 💾: Código-Feonte:
+<br />
+
+## 💾 Código-Feonte:
 
 ```C
 // //////////////////////////////////////////////////////////////////////////
