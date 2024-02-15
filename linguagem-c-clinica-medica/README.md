@@ -26,7 +26,6 @@ Linguagem C. Programação. Clínica Médica.
 [**Download source code**](https://github.com/fermyno/scientific-research-papers/blob/main/linguagem-c-clinica-medica/clinica-medica.c)  
 
 <br />
-<br />
 
 ```C
 // //////////////////////////////////////////////////////////////////////////
