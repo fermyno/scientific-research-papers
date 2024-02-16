@@ -455,7 +455,7 @@ void listar_consultas() {
 <br />
 
 ## ⚙️ Compilação:
-
+<br />
 <img src="https://raw.githubusercontent.com/fermyno/scientific-research-papers/main/linguagem-c-clinica-medica/compilacao.jpg" border="0">
 
 <br />
