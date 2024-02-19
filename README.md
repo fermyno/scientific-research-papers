@@ -6,6 +6,12 @@
 <br>
 <br></p>
 <ul dir="auto">
+<li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/estudo-de-caso-implantacao-de-firewall">123Implantação de Firewall pfSense em uma empresa do ramo hoteleiro</a></code></strong><br>
+<strong>Autor</strong>: Fermyno Gutierrez<br>
+<strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão do Curso de <strong>Pós-graduação em Engenharia de Software</strong> na Faculdade de Venda Nova do Imigrante.</li>
+</ul>
+<br>
+<ul dir="auto">
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/estudo-de-caso-implantacao-de-firewall">Implantação de Firewall pfSense em uma empresa do ramo hoteleiro</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão do Curso de <strong>Pós-graduação em Engenharia de Software</strong> na Faculdade de Venda Nova do Imigrante.</li>
