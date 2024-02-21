@@ -23,6 +23,7 @@
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/pfsense-seguranca-da-informacao">Sistema pfSense como solução de Segurança da Informação</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão do Curso de <strong>Pós-graduação em Segurança da Informação</strong> na Faculdade de Venda Nova do Imigrante.</li>
+📂 <a href="https://github.com/fermyno/scientific-research-papers/tree/main/pfsense-seguranca-da-informacao">Acessar estudo</a>
 </ul>
 <br>
 <ul dir="auto">
