@@ -27,10 +27,10 @@
 </ul>
 <br>
 <ul dir="auto">
-<li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/blob/main/ambiente-de-desenvolvimento-Arduino-IDE/README.md">Ambiente de Desenvolvimento Arduino IDE</a></code></strong><br>
+<li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/blob/main/ambiente-de-desenvolvimento-Arduino-IDE/">Ambiente de Desenvolvimento Arduino IDE</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão da disciplina "Ambientes de Desenvolvimento e Aplicações" do Curso de <strong>Pós-graduação em Engenharia Eletrônica e Computação</strong> na Faculdade UNYLEYA.</li>
-📂 <a href="https://github.com/fermyno/scientific-research-papers/blob/main/ambiente-de-desenvolvimento-Arduino-IDE/README.md">Acessar estudo</a>
+📂 <a href="https://github.com/fermyno/scientific-research-papers/blob/main/ambiente-de-desenvolvimento-Arduino-IDE/">Acessar estudo</a>
 </ul>
 <br>
 <ul dir="auto">
@@ -46,7 +46,7 @@
 </ul>
 <br>
 <ul dir="auto">
-<li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/blob/main/arquitetura-e-funcionamento-dos-microcontroladores/README.md">Rotinas de Software para acionamento de Microcontroladores</a></code></strong><br>
+<li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/blob/main/arquitetura-e-funcionamento-dos-microcontroladores">Rotinas de Software para acionamento de Microcontroladores</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão da disciplina de "Arquitetura e Funcionamento dos Microcontroladores" do Curso de <strong>Pós-graduação em Engenharia Eletrônica e Computação</strong> na Faculdade UNYLEYA.</li>
 </ul>
