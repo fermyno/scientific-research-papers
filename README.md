@@ -37,6 +37,7 @@
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/sic-e-tecnologias-da-informacao">Sistemas de Informação Contábil e Tecnologias da Informação</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão do Curso de <strong>MBA em Contabilidade Gerencial e Controladoria</strong> na UNIGRAN Internacional, Campus Lisboa, Portugal.</li>
+📂 <a href="https://github.com/fermyno/scientific-research-papers/tree/main/sic-e-tecnologias-da-informacao">Acessar estudo</a>
 </ul>
 <br>
 <ul dir="auto">
