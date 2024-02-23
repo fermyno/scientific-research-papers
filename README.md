@@ -87,3 +87,5 @@
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a otenção do título de <strong>Master</strong> pela AICAD Business School, Espanha.</li>
 </ul>
+<br>
+<br>
