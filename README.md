@@ -44,7 +44,7 @@
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/intervencao-pedagogica-agencia-espacial-europeia">Proposta de Intervenção Pedagógica para o Ensino da Física baseada no Material Educacional da Agência Espacial Europeia</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Artigo desenvolvido na participação do seminário <strong>ESA TEACH WITH SPACE CONFERENCE</strong> 2021 da <strong>Agência Espacial Europeia</strong>.</li>
-📂 <a href="https://github.com/fermyno/scientific-research-papers/tree/main/sic-e-tecnologias-da-informacao">Acessar estudo</a>
+📂 <a href="https://github.com/fermyno/scientific-research-papers/tree/main/intervencao-pedagogica-agencia-espacial-europeia">Acessar estudo</a>
 </ul>
 <br>
 <ul dir="auto">
