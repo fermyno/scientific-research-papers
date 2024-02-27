@@ -51,6 +51,7 @@
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/blob/main/arquitetura-e-funcionamento-dos-microcontroladores">Rotinas de Software para acionamento de Microcontroladores</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão da disciplina de "Arquitetura e Funcionamento dos Microcontroladores" do Curso de <strong>Pós-graduação em Engenharia Eletrônica e Computação</strong> na Faculdade UNYLEYA.</li>
+📂 <a href="https://github.com/fermyno/scientific-research-papers/tree/main/intervencao-pedagogica-agencia-espacial-europeia">Acessar estudo</a>
 </ul>
 <br>
 <ul dir="auto">
