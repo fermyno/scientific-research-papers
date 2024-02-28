@@ -58,6 +58,7 @@
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre">Proposta de Capacitação de professores em Informática com o uso de Software Livre</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão do Curso de <strong>Pós-graduação em Informática em Educação</strong> na Universidade Federal de Lavras (UFLA).</li>
+📂 <a href="https://github.com/fermyno/scientific-research-papers/blob/main/arquitetura-e-funcionamento-dos-microcontroladores">Acessar estudo</a>
 </ul>
 <br>
 <ul dir="auto">
