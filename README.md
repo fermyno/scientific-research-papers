@@ -65,6 +65,7 @@
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/realimentacao-negativa-em-OAmps">Realimentação Negativa em Amplificadores Operacionais</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão da disciplina de "Eletrônica" do Curso de <strong>Pós-graduação em Engenharia Eletrônica e Computação</strong> na Faculdade UNYLEYA.</li>
+📂 <a href="https://github.com/fermyno/scientific-research-papers/tree/main/capacitacao-de-professores-em-informatica-com-software-livre">Acessar estudo</a>
 </ul>
 <br>
 <ul dir="auto">
