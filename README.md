@@ -79,7 +79,7 @@
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/miami-fc-estudo-de-caso-estados-unidos">Miami FC: Estudo de Caso sobre as ações mercadológicas adotadas pelo clube nos Estados Unidos</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão do Curso de <strong>MBA</strong> no Centro Universitário UNILASALLE, após intercâmbio acadêmico realizado nas dependências do clube em Miami, Estados Unidos.</li>
-📂 <a href="https://github.com/fermyno/scientific-research-papers/tree/main/utilizacao-do-geogebra-no-ensino-da-fisica">Acessar estudo</a>
+📂 <a href="https://github.com/fermyno/scientific-research-papers/tree/main/miami-fc-estudo-de-caso-estados-unidos">Acessar estudo</a>
 </ul>
 <br>
 <ul dir="auto">
