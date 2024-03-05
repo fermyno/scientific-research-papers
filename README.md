@@ -86,6 +86,7 @@
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/aplicabilidade-dos-4-ps-em-empresas-pontocom">Aplicabilidade dos 4 Ps do Marketing em Empresas Pontocom</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a conclusão do <strong>Curso Superior de Tecnologia</strong> na Faculdade SENAC.</li>
+📂 <a href="https://github.com/fermyno/scientific-research-papers/tree/main/miami-fc-estudo-de-caso-estados-unidos">Acessar estudo</a>
 </ul>
 <br>
 <ul dir="auto">
