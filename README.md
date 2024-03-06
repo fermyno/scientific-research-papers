@@ -93,6 +93,7 @@
 <li><strong>Título</strong>: 📄 <strong><code><a href="https://github.com/fermyno/scientific-research-papers/tree/main/las-4-p-en-sitios-de-internet">Aplicabilidad de las 4 P del marketing en sitios de Internet</a></code></strong><br>
 <strong>Autor</strong>: Fermyno Gutierrez<br>
 <strong>Descrição</strong>: Trabalho desenvolvido como requisito para a otenção do título de <strong>Master</strong> pela AICAD Business School, Espanha.</li>
+📂 <a href="https://github.com/fermyno/scientific-research-papers/tree/main/aplicabilidade-dos-4-ps-em-empresas-pontocom">Acessar estudo</a>
 </ul>
 <br>
 <br>
